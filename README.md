@@ -33,3 +33,4 @@ Projenin bağımlılıklarını yüklemek için şu komutu çalıştırın:
 
 ```bash
 npm i
+node .
