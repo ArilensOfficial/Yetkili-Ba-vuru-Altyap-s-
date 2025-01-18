@@ -1,0 +1,17 @@
+{
+  "name": "yetkili-başvuru",
+  "version": "1.0.0",
+  "description": "yetki başvuru sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Helian Official",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
+
+// Helian Tarafından Yapılmıştır.
